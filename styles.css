@@ -52,3 +52,16 @@ hr {
     margin-top: 2rem;
 }
 
+.parent {
+    height: 10rem;
+    width: 10rem;
+    background-color: dodgerblue;
+    margin-top: 3rem;
+    margin-left: 42rem;
+    margin-bottom: 3rem;
+}
+
+.child {
+    font-size: 1.5rem;
+    margin-bottom: 3rem;
+}
