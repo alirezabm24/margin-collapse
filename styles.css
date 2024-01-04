@@ -1,0 +1,67 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 15px;
+}
+
+.box1 {
+    width: 50rem;
+    height: 2rem;
+    background-color: gold;
+    border: 2px solid red;
+    margin-top: 2rem;
+    margin-left: 23rem;
+    margin-bottom: 2rem;
+}
+
+.box2 {
+    width: 50rem;
+    height: 2rem;
+    background-color: green;
+    border: 2px solid blue;
+    margin-left: 23rem;
+    margin-top: 2rem;
+}
+
+hr {
+    margin-top: 2rem;
+}
+
+.para1 {
+    font-size: 1.5rem;
+    color: red;
+    margin-top: 5rem;
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.para2 {
+    font-size: 1.5rem;
+    color: blue;
+    margin-top: 5rem;
+    text-align: center;
+    margin-top: 2rem;
+}
+
+.text {
+    text-align: center;
+    color: darkmagenta;
+    margin-bottom: 2rem;
+    margin-top: 2rem;
+}
+
+.parent {
+    height: 10rem;
+    width: 10rem;
+    background-color: dodgerblue;
+    margin-top: 3rem;
+    margin-left: 42rem;
+    margin-bottom: 3rem;
+}
+
+.child {
+    font-size: 1.5rem;
+    margin-bottom: 3rem;
+}
