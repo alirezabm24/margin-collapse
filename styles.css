@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 15px;
+}
+
+.box1 {
+    width: 50rem;
+    height: 2rem;
+    background-color: gold;
+    border: 2px solid red;
+    margin-top: 2rem;
+    margin-left: 20rem;
+    margin-bottom: 2rem;
+}
+
+.box2 {
+    width: 50rem;
+    height: 2rem;
+    background-color: green;
+    border: 2px solid blue;
+    margin-left: 20rem;
+    margin-top: 2rem;
+}
+
+hr {
+    margin-top: 2rem;
+}
